@@ -1,0 +1,2651 @@
+# This is an auto generated file! Edit at your own risk!
+# You can edit this "/" section. Settings will be kept.
+#
+[/]
+* = 
+
+#
+# Don't edit anything below! All manual changes will be overwritten. 
+#
+
+[groups]
+Acces-REDMINE = REDMINE
+ADLP-LEMERAUD = couvrard
+ADLP-SINPAV2-Admins = couvrard, vlam
+ADLP-SinpaV2-Clients = adlpfr-nlanfranchi, couvrard
+ADLPFr-ADLMaster = alesaux, couvrard, flegolvan, itelili, jmossier, jmusso, mbusson, vlam
+ADLPFr-DBCrypto = couvrard, fprevost, vlam
+ADLPFr-OneKiosk = bdamey, gmartelet, jallouis
+ADLPFr-OneKiosk-Lecture-Dev = tloubaresse, vkurg
+ADLPFr-Performance-ADMINS = couvrard, fbricout, gmartelet
+ADLPFr-Performance-CLIENT = adlpfr-haraki, adlpfr-jgavrel, adlpfr-jgerard, adlpfr-lpichard, adlpfr-mkoskach, adlpfr-pvillela-petit, adlpfr-srousselle, adlpfr-vkurg
+ADLPFr-SitesFA_Assistance = adlpfr-nehamor, adlpfr-rshipley, bguyot, flegolvan, gmartelet, jallouis, jalonso, mlam, mribeiro, vbesnier
+AGDInformatique-CrossBrowser = agd-has, alecointe, mribeiro, oleal
+AGDInformatique-GPE = alecointe, bdamey, jduval, jmfiaschi, lfernandes, oleal, vlam, vloisel
+ARS-GEPEv2-Admins = couvrard
+ARS-GEPEv2-Clients = ars-cfontaine, ars-cgerphagnon, ars-evalla, ars-fchambe, ars-fwill, ars-hblanc, ars-slaurentdray, couvrard
+ARS-ORAGE-Admins = jmfiaschi
+ARS-ORAGE-USER = ars_user
+ASCENDEO-VMI-CF = ascendeo-iotando, oleal
+AstraZeneca-KAM = drouyer, fprevost, fvinassac, vlam
+ATAL = cmartinez, vlam
+ATAL-ADUCTIS = atal-awintrebert, atal-ftauziet, atal-lbennacer, atal-tallard
+ATAL-Courbevoie = atal-nlemoign, atal-pesautereau
+BBGR-BBOCAM = adubois, alecointe, alesaux, apoure, gmartelet, lfernandes, roubrerie, tloubaresse, vloisel
+BBGR-eCertificat = alecointe, alesaux, bdamey, fvinassac, gmartelet, lfernandes, oleal, tloubaresse
+BBGR-eCertificat-Client = bbgr-cussacl, bbgr-tassind, gmartelet, test, vlam
+BBGR-eCertificatOrange = alecointe, bdamey, fvinassac, gmartelet, lfernandes, oleal, vlam
+BBGR-Espace-Pro = 
+BBGR-Extranet = alecointe, djoncour, fvinassac, tloubaresse
+BBGR-Extranet-Client = bbgr-cussacl, bbgr-kuhrc, bbgr-tassind, vlam
+BBGR-ExtranetOrange = djoncour, fvinassac, vlam
+CaisseEpargne-RIAv3-Admins = djoncour, jduval, pgulati, pkaczmarek
+CERTU-MAPBruit-Admins = lchambon
+CETE-VisioMPostes-Admins = 
+CFDP-SINISTRE-admin = bdamey, hbois
+CFDP-SINISTRE-CSI = cfdp-csi, vlam
+cfdp-util = cfdp, cfdp-lreignat, cfdp-si, cfdp-tdurand, cfdp-util
+CIG-BourseEmploi-Client = cig-adufour, cig-bourseemploi, cig-cdevillechabrolle, cig-dwinckel, cig-eandriamanantena, cig-eroy, cig-layral, cig-lrousseau, cig-vdecaux, eandriamanantena, fvinassac
+CIG-InfocentreHandicap-Admins = gmartelet
+CIG-PlateformeXnet-Server = cigversailles-plateformexnet, fvinassac
+CIG-Utilisateurs = cig-util
+CPP_Nexans_Mantis = alecointe, bdamey, gmartelet, jduval, jmfiaschi, oleal, vlam
+devteam = abroyer, adubois, afloury, alecointe, alesaux, aogier, apavlovic, apoure, bdamey, bmeunier, bparmentier, cbarberger, cdecaumont, cfaligot, cmartinez, couvrard, cpineau, dchhay, djames, djoncour, drouyer, edecarpentry, fdegardin, flegolvan, fprevost, fthueux, fvinassac, gbernard, gmartelet, hbois, hsousa, iorga-apps, itelili, jallouis, jalonso, jcorre, jduval, jmfiaschi, jmossier, jpeter, kmaury, lcfandechewe, lfernandes, lowen, lreignat, manhho, mbusson, mchinchole, mherbez, mjoets, mlam, mribeiro, ncadiot, oleal, pkaczmarek, pmoura, roubrerie, sleclere, srabere, tbayeux, thurtel, tloubaresse, vlam, vloisel, vmachado, yandriamandanona, ybao
+DIA-CDES69-CLIENT = ed-bbossuyt, gmartelet
+DIA-FLWEB = gmartelet, jalonso, pkaczmarek, vlam
+DIA-FLWeb-client = ed-vbroune
+DIRCE-Bibli = lfernandes, oleal, vlam, vloisel
+domplus-iorga-admins = couvrard, pkaczmarek
+domplus-util = dom-on, dom-rb, dom-visu, dom-vvh, domplus-dp, domplus-rcamacho, domplus-util, fprevost
+domplus-util-tech = domplus-tech
+ED-Clients = carrefour-gpm
+ED-Techs = ed-bbossuyt
+eiko-util = eiko-util
+ELECTRE-ADMIN = bdamey, fvinassac, hbois
+ELECTRE-CadrageFonctionnelCRM = alesaux, bdamey, fprevost, fvinassac, hbois, vlam
+ELECTRE-CadrageFonctionnelCRM-Client = electre-util
+ELECTRE-ManuelQualiteCalipse = oleal, vloisel
+Europerformance-Client = ep-ag, ep-sh, ep-tmahfouz, kmaury, vlam
+FAP-Clients = fap-akaroubi, fap-eferraro, fap-mrothhahn, oleal
+FFTT-SPIDDv2 = bdamey, tloubaresse
+FranceAbo-Badje = couvrard, flegolvan, itelili, mlam, tbayeux, tloubaresse
+FranceAbo-Badje_Planning = couvrard, tloubaresse
+FranceAbo-Sygal = alesaux, couvrard, flegolvan, itelili, jmossier, jmusso, ncadiot, pkaczmarek, vlam
+GroupeCahors-BiFinanceAdmin = prebichon
+GroupeCahors-BiFinanceClient = cahors-bifinance-client, prebichon
+Heineken-ApplicationWebMobile = adubois, gmartelet, oleal, roubrerie, tloubaresse
+iconandcogroup = couvrard, mherbez, vlam
+Iorga-Admins = aogier, fprevost, tloubaresse
+Iorga-Apps = iorga-apps
+IORGA-CAS = iorga-apps
+iorga-cig-handicap = iorga-cig-handicap
+IORGA-IOP = djoncour, drouyer, fprevost, fvinassac, kmaury, oleal, pkaczmarek, thurtel, tloubaresse
+Iorga-SiteIORGA2013 = oleal, roubrerie
+IORGA-WAZA = aogier, gmartelet, iorga-apps, jcorre, jduval, lfernandes, oleal, roubrerie, vlam
+Kazakar-Kazakar = fprevost, jduval, jmfiaschi, vlam
+KPONE = kmaury, vlam
+LaboFenioux-SiteInternet = mherbez, oleal
+LaboFenioux-SiteInternet-Client = lf-aluneau, lf-llebre, oleal, vlam
+LFB-Application-Web-Plasma = lfernandes, oleal, tloubaresse
+MEDDE-CLIENTS = cmartinez, medde-lenjelvin, medde-mpieyre
+MEDDE-INERIS = clescot
+MEDDE-KLEE = spoitrenaud
+OFUP-test = vlam
+Rosny-PortailFamille = alesaux, lfernandes, manhho, tloubaresse
+SELOGER-PPC = alecointe, vlam
+SG-GestDAB-v2 = bdamey, drouyer, fvinassac, lowen, mherbez, oleal
+SocieteCentraleCanine = bdamey, fvinassac, gmartelet, jmfiaschi, oleal
+SPEIG-client = speig-util
+SPEIG-POC-Planning = alecointe, bdamey, lfernandes, vlam
+TDF-DIAGPYLWEB = alesaux, djoncour, hbois, jrougeron, lfernandes, lowen, pkaczmarek, tloubaresse
+TDF-OutillageSupplyChain = bdamey, cfaligot, fprevost, fthueux, hbois, kmaury, lfernandes, lfrancois, lowen, oleal, pkaczmarek, vloisel
+TDF-OutillageSupplyChain-client = tdf-util, vlam
+TDF_GestionBudgetaire = hbois, kmaury, lfernandes, lowen, pkaczmarek, vloisel
+TELECOM_SUDPARIS-TSP = couvrard, cpineau, djoncour, tloubaresse
+Test = admin
+YVONMAU-CREATIONPRODUITV2-Users = yvonmau-eleroux
+YVONMAU-MULTICRITERE-Admins = bdamey, couvrard, oleal
+YVONMAU-MULTICRITERE-Utils = yvonmau-dp, yvonmau-tech, yvonmau-util
+
+
+# Project AbbePierre-ADeL
+[AbbePierre-ADeL:/]
+@Acces-REDMINE = r
+@devteam = rw
+
+[AbbePierre-ADeL:/branches]
+@devteam = rw
+
+[AbbePierre-ADeL:/tags]
+@devteam = rw
+
+[AbbePierre-ADeL:/trunk]
+@devteam = rw
+
+[AbbePierre-ADeL:/trunk/docs]
+@devteam = 
+
+[AbbePierre-ADeL:/trunk/management]
+@devteam = 
+
+
+
+# Project AbbePierre-GestionDesSubventions
+[AbbePierre-GestionDesSubventions:/]
+@devteam = r
+
+[AbbePierre-GestionDesSubventions:/branches]
+@devteam = rw
+
+[AbbePierre-GestionDesSubventions:/releases]
+@devteam = rw
+
+[AbbePierre-GestionDesSubventions:/tags]
+@devteam = rw
+
+[AbbePierre-GestionDesSubventions:/trunk]
+@devteam = rw
+
+
+
+# Project AbbePierre-LegsEtDonations
+[AbbePierre-LegsEtDonations:/]
+@devteam = r
+
+[AbbePierre-LegsEtDonations:/branches]
+@devteam = rw
+
+[AbbePierre-LegsEtDonations:/releases]
+@devteam = rw
+
+[AbbePierre-LegsEtDonations:/tags]
+@devteam = rw
+
+[AbbePierre-LegsEtDonations:/trunk]
+@devteam = rw
+
+
+
+# Project ADLP-SINPAv2
+[ADLP-SINPAv2:/]
+@Acces-REDMINE = r
+@ADLP-LEMERAUD = r
+@ADLP-SINPAV2-Admins = r
+@ADLP-SinpaV2-Clients = r
+@devteam = r
+
+[ADLP-SINPAv2:/branches]
+@ADLP-LEMERAUD = r
+@ADLP-SINPAV2-Admins = rw
+@ADLP-SinpaV2-Clients = r
+@devteam = rw
+
+[ADLP-SINPAv2:/tags]
+@ADLP-SINPAV2-Admins = rw
+@ADLP-SinpaV2-Clients = r
+@devteam = rw
+
+[ADLP-SINPAv2:/trunk]
+@ADLP-SINPAV2-Admins = rw
+@ADLP-SinpaV2-Clients = r
+@devteam = rw
+
+[ADLP-SINPAv2:/trunk/docs]
+@Acces-REDMINE = r
+@ADLP-LEMERAUD = 
+@ADLP-SINPAV2-Admins = 
+@ADLP-SinpaV2-Clients = 
+@devteam = r
+
+[ADLP-SINPAv2:/trunk/management]
+@ADLP-LEMERAUD = 
+@ADLP-SINPAV2-Admins = 
+@ADLP-SinpaV2-Clients = 
+@devteam = 
+
+[ADLP-SINPAv2:/trunk/management/restricted]
+@ADLP-SINPAV2-Admins = rw
+@ADLP-SinpaV2-Clients = 
+@devteam = 
+
+[ADLP-SINPAv2:/trunk/Scripts]
+@ADLP-LEMERAUD = 
+@ADLP-SINPAV2-Admins = rw
+@ADLP-SinpaV2-Clients = r
+@devteam = rw
+
+
+
+# Project ADLPFr-ADLMaster
+[ADLPFr-ADLMaster:/]
+@Acces-REDMINE = r
+@ADLP-LEMERAUD = r
+@ADLPFr-ADLMaster = r
+@devteam = r
+
+[ADLPFr-ADLMaster:/branches]
+@ADLP-LEMERAUD = r
+@ADLPFr-ADLMaster = rw
+@devteam = rw
+
+[ADLPFr-ADLMaster:/releases]
+@ADLP-LEMERAUD = 
+@ADLPFr-ADLMaster = rw
+@devteam = rw
+
+[ADLPFr-ADLMaster:/tags]
+@ADLP-LEMERAUD = r
+@ADLPFr-ADLMaster = rw
+@devteam = rw
+
+[ADLPFr-ADLMaster:/trunk]
+@ADLP-LEMERAUD = r
+@ADLPFr-ADLMaster = rw
+@devteam = rw
+
+[ADLPFr-ADLMaster:/trunk/dev]
+@ADLP-LEMERAUD = r
+@ADLPFr-ADLMaster = rw
+@devteam = rw
+
+[ADLPFr-ADLMaster:/trunk/docs]
+@ADLP-LEMERAUD = 
+@ADLPFr-ADLMaster = 
+
+[ADLPFr-ADLMaster:/trunk/management]
+@ADLP-LEMERAUD = 
+@ADLPFr-ADLMaster = 
+
+
+
+# Project ADLPFr-DBCrypto
+[ADLPFr-DBCrypto:/]
+@Acces-REDMINE = r
+@ADLPFr-DBCrypto = r
+
+[ADLPFr-DBCrypto:/branches]
+@ADLPFr-DBCrypto = rw
+
+[ADLPFr-DBCrypto:/tags]
+@ADLPFr-DBCrypto = rw
+
+[ADLPFr-DBCrypto:/trunk]
+@ADLPFr-DBCrypto = rw
+
+
+
+# Project ADLPFr-KAC
+[ADLPFr-KAC:/]
+@devteam = r
+
+[ADLPFr-KAC:/branches]
+@devteam = rw
+
+[ADLPFr-KAC:/releases]
+@devteam = rw
+
+[ADLPFr-KAC:/tags]
+@devteam = rw
+
+[ADLPFr-KAC:/trunk]
+@devteam = rw
+
+
+
+# Project ADLPFr-OneKiosk
+[ADLPFr-OneKiosk:/]
+@ADLPFr-OneKiosk = r
+@ADLPFr-OneKiosk-Lecture-Dev = r
+@devteam = r
+
+[ADLPFr-OneKiosk:/branches]
+@ADLPFr-OneKiosk = r
+@ADLPFr-OneKiosk-Lecture-Dev = 
+@devteam = r
+
+[ADLPFr-OneKiosk:/releases]
+@ADLPFr-OneKiosk = r
+@ADLPFr-OneKiosk-Lecture-Dev = 
+@devteam = r
+
+[ADLPFr-OneKiosk:/tags]
+@ADLPFr-OneKiosk = r
+@ADLPFr-OneKiosk-Lecture-Dev = 
+@devteam = r
+
+[ADLPFr-OneKiosk:/trunk]
+@ADLPFr-OneKiosk = r
+@ADLPFr-OneKiosk-Lecture-Dev = 
+@devteam = rw
+
+[ADLPFr-OneKiosk:/trunk/dev]
+@ADLPFr-OneKiosk = r
+@ADLPFr-OneKiosk-Lecture-Dev = r
+@devteam = rw
+
+[ADLPFr-OneKiosk:/trunk/docs]
+@ADLPFr-OneKiosk = r
+@ADLPFr-OneKiosk-Lecture-Dev = 
+@devteam = rw
+
+[ADLPFr-OneKiosk:/trunk/management]
+@ADLPFr-OneKiosk = r
+@ADLPFr-OneKiosk-Lecture-Dev = 
+@devteam = rw
+
+
+
+# Project ADLPFr-Performance
+[ADLPFr-Performance:/]
+@Acces-REDMINE = r
+@ADLPFr-Performance-ADMINS = rw
+@ADLPFr-Performance-CLIENT = rw
+@devteam = rw
+
+[ADLPFr-Performance:/trunk/docs]
+@ADLPFr-Performance-ADMINS = 
+@ADLPFr-Performance-CLIENT = 
+@devteam = 
+
+[ADLPFr-Performance:/trunk/management]
+@ADLPFr-Performance-ADMINS = 
+@ADLPFr-Performance-CLIENT = 
+@devteam = 
+
+[ADLPFr-Performance:/trunk/management/restricted]
+@ADLPFr-Performance-ADMINS = rw
+@ADLPFr-Performance-CLIENT = 
+@devteam = 
+
+
+
+# Project ADLPFr-SitesFA
+[ADLPFr-SitesFA:/]
+@devteam = r
+
+
+
+# Project ADLPFr-SitesFA_Assistance
+[ADLPFr-SitesFA_Assistance:/]
+@Acces-REDMINE = r
+@ADLPFr-SitesFA_Assistance = r
+
+[ADLPFr-SitesFA_Assistance:/branches]
+@ADLPFr-SitesFA_Assistance = rw
+
+[ADLPFr-SitesFA_Assistance:/releases]
+@ADLPFr-SitesFA_Assistance = rw
+
+[ADLPFr-SitesFA_Assistance:/tags]
+@ADLPFr-SitesFA_Assistance = rw
+
+[ADLPFr-SitesFA_Assistance:/trunk]
+@ADLPFr-SitesFA_Assistance = rw
+
+[ADLPFr-SitesFA_Assistance:/trunk/docs]
+@ADLPFr-SitesFA_Assistance = 
+
+[ADLPFr-SitesFA_Assistance:/trunk/management]
+@ADLPFr-SitesFA_Assistance = 
+
+
+
+# Project ADLPFr-SystemesConnexes
+[ADLPFr-SystemesConnexes:/]
+@Acces-REDMINE = r
+@ADLP-SinpaV2-Clients = r
+@devteam = r
+
+[ADLPFr-SystemesConnexes:/branches]
+@devteam = rw
+
+[ADLPFr-SystemesConnexes:/releases]
+@devteam = rw
+
+[ADLPFr-SystemesConnexes:/tags]
+@devteam = rw
+
+[ADLPFr-SystemesConnexes:/trunk]
+@devteam = rw
+
+[ADLPFr-SystemesConnexes:/trunk/dev]
+@devteam = rw
+
+[ADLPFr-SystemesConnexes:/trunk/docs]
+@devteam = 
+
+[ADLPFr-SystemesConnexes:/trunk/management]
+@devteam = rw
+
+
+
+# Project ADLPFr-TMA
+[ADLPFr-TMA:/]
+@devteam = r
+
+[ADLPFr-TMA:/branches]
+@devteam = rw
+
+[ADLPFr-TMA:/releases]
+@devteam = rw
+
+[ADLPFr-TMA:/tags]
+@devteam = rw
+
+[ADLPFr-TMA:/trunk]
+@devteam = rw
+
+
+
+# Project ADLPUK-ADLMaster
+[ADLPUK-ADLMaster:/]
+@devteam = r
+
+[ADLPUK-ADLMaster:/tags]
+@devteam = rw
+
+[ADLPUK-ADLMaster:/trunk]
+@devteam = rw
+
+[ADLPUK-ADLMaster:/trunk/docs]
+@devteam = rw
+
+
+
+# Project AGDInformatique-Commissionnement
+[AGDInformatique-Commissionnement:/]
+@Acces-REDMINE = r
+@devteam = rw
+
+[AGDInformatique-Commissionnement:/trunk/docs]
+@devteam = 
+
+[AGDInformatique-Commissionnement:/trunk/management]
+@devteam = 
+
+
+
+# Project AGDInformatique-CrossBrowser
+[AGDInformatique-CrossBrowser:/]
+@Acces-REDMINE = r
+@AGDInformatique-CrossBrowser = r
+
+
+
+# Project AGDInformatique-GPE
+[AGDInformatique-GPE:/]
+@Acces-REDMINE = r
+@AGDInformatique-GPE = r
+
+[AGDInformatique-GPE:/branches]
+@AGDInformatique-GPE = rw
+
+[AGDInformatique-GPE:/trunk]
+@AGDInformatique-GPE = rw
+
+[AGDInformatique-GPE:/trunk/docs]
+@AGDInformatique-GPE = 
+
+[AGDInformatique-GPE:/trunk/management]
+@AGDInformatique-GPE = 
+
+
+
+# Project AGDINFORMATIQUE-OAV
+[AGDINFORMATIQUE-OAV:/]
+@Acces-REDMINE = r
+@devteam = r
+
+[AGDINFORMATIQUE-OAV:/branches]
+@devteam = rw
+
+[AGDINFORMATIQUE-OAV:/tags]
+@devteam = rw
+
+[AGDINFORMATIQUE-OAV:/trunk]
+@devteam = rw
+
+[AGDINFORMATIQUE-OAV:/trunk/docs]
+@devteam = 
+
+[AGDINFORMATIQUE-OAV:/trunk/management]
+@devteam = 
+
+
+
+# Project AGDInformatique-StatistiquesV2
+[AGDInformatique-StatistiquesV2:/]
+@Acces-REDMINE = r
+@devteam = rw
+
+[AGDInformatique-StatistiquesV2:/docs]
+@devteam = 
+
+[AGDInformatique-StatistiquesV2:/management]
+@devteam = 
+
+
+
+# Project Applexion-ISIS
+[Applexion-ISIS:/]
+@devteam = r
+
+[Applexion-ISIS:/trunk]
+@devteam = rw
+
+
+
+# Project ARS-GEPEv2
+[ARS-GEPEv2:/]
+@Acces-REDMINE = r
+@ARS-GEPEv2-Admins = rw
+@ARS-GEPEv2-Clients = r
+@devteam = r
+
+[ARS-GEPEv2:/tags]
+@ARS-GEPEv2-Admins = rw
+@ARS-GEPEv2-Clients = r
+
+[ARS-GEPEv2:/trunk/dev]
+@ARS-GEPEv2-Admins = rw
+@ARS-GEPEv2-Clients = r
+@devteam = rw
+
+[ARS-GEPEv2:/trunk/docs]
+@ARS-GEPEv2-Admins = 
+@ARS-GEPEv2-Clients = 
+@devteam = 
+
+[ARS-GEPEv2:/trunk/management]
+@ARS-GEPEv2-Admins = 
+@ARS-GEPEv2-Clients = 
+@devteam = 
+
+[ARS-GEPEv2:/trunk/management/cpp]
+@ARS-GEPEv2-Admins = rw
+@ARS-GEPEv2-Clients = 
+@devteam = 
+
+[ARS-GEPEv2:/trunk/management/restricted]
+@ARS-GEPEv2-Admins = rw
+@ARS-GEPEv2-Clients = 
+@devteam = 
+
+[ARS-GEPEv2:/trunk/management/restricted/Suivi]
+@ARS-GEPEv2-Admins = rw
+@ARS-GEPEv2-Clients = 
+
+
+
+# Project ARS-ORAGE
+[ARS-ORAGE:/]
+@Acces-REDMINE = r
+@ARS-ORAGE-Admins = rw
+@ARS-ORAGE-USER = r
+@devteam = r
+
+[ARS-ORAGE:/trunk/dev]
+@ARS-ORAGE-Admins = rw
+@ARS-ORAGE-USER = r
+@devteam = rw
+
+[ARS-ORAGE:/trunk/docs]
+@ARS-ORAGE-Admins = 
+@ARS-ORAGE-USER = 
+@devteam = 
+
+[ARS-ORAGE:/trunk/management]
+@ARS-ORAGE-Admins = 
+@ARS-ORAGE-USER = 
+@devteam = 
+
+
+
+# Project ASCENDEO-VMI
+[ASCENDEO-VMI:/]
+@Acces-REDMINE = r
+@ASCENDEO-VMI-CF = r
+@devteam = r
+
+[ASCENDEO-VMI:/branches]
+@devteam = rw
+
+[ASCENDEO-VMI:/tags]
+@devteam = rw
+
+[ASCENDEO-VMI:/trunk]
+@devteam = rw
+
+[ASCENDEO-VMI:/trunk/dev]
+@Acces-REDMINE = r
+@ASCENDEO-VMI-CF = rw
+@devteam = rw
+
+[ASCENDEO-VMI:/trunk/docs]
+@ASCENDEO-VMI-CF = 
+@devteam = 
+
+[ASCENDEO-VMI:/trunk/management]
+@ASCENDEO-VMI-CF = 
+@devteam = 
+
+
+
+# Project AstraZeneca-KAM
+[AstraZeneca-KAM:/]
+@Acces-REDMINE = r
+@AstraZeneca-KAM = r
+
+[AstraZeneca-KAM:/branches]
+@AstraZeneca-KAM = rw
+
+[AstraZeneca-KAM:/tags]
+@AstraZeneca-KAM = rw
+
+[AstraZeneca-KAM:/trunk]
+@AstraZeneca-KAM = rw
+
+
+
+# Project ASTRAZENECA-REPORTING-AZ-BMS
+[ASTRAZENECA-REPORTING-AZ-BMS:/]
+@Acces-REDMINE = r
+@devteam = r
+
+[ASTRAZENECA-REPORTING-AZ-BMS:/branches]
+@devteam = rw
+
+[ASTRAZENECA-REPORTING-AZ-BMS:/tags]
+@devteam = rw
+
+[ASTRAZENECA-REPORTING-AZ-BMS:/trunk]
+@devteam = rw
+
+[ASTRAZENECA-REPORTING-AZ-BMS:/trunk/docs]
+@devteam = 
+
+[ASTRAZENECA-REPORTING-AZ-BMS:/trunk/management]
+@devteam = 
+
+
+
+# Project ATAL
+[ATAL:/]
+@Acces-REDMINE = r
+@ATAL = r
+@ATAL-ADUCTIS = r
+@ATAL-Courbevoie = r
+
+[ATAL:/branches]
+@ATAL = rw
+@ATAL-ADUCTIS = rw
+@ATAL-Courbevoie = rw
+
+[ATAL:/branches/GMAO - ATAL]
+@ATAL = rw
+@ATAL-ADUCTIS = rw
+@ATAL-Courbevoie = rw
+
+[ATAL:/branches/Suivi - Projet]
+@ATAL = rw
+@ATAL-ADUCTIS = 
+@ATAL-Courbevoie = rw
+
+[ATAL:/trunk]
+@ATAL = rw
+@ATAL-ADUCTIS = rw
+@ATAL-Courbevoie = rw
+
+[ATAL:/trunk/ATAL]
+@ATAL = rw
+@ATAL-ADUCTIS = rw
+@ATAL-Courbevoie = rw
+
+[ATAL:/trunk/Suivi_ATAL]
+@ATAL = rw
+@ATAL-ADUCTIS = 
+@ATAL-Courbevoie = rw
+
+
+
+# Project AXEM-Middleware
+[AXEM-Middleware:/]
+@Acces-REDMINE = r
+@devteam = rw
+
+
+
+# Project BBGR-BBOCAM
+[BBGR-BBOCAM:/]
+@Acces-REDMINE = r
+@BBGR-BBOCAM = r
+
+[BBGR-BBOCAM:/branches]
+@BBGR-BBOCAM = rw
+
+[BBGR-BBOCAM:/tags]
+@BBGR-BBOCAM = rw
+
+[BBGR-BBOCAM:/trunk]
+@BBGR-BBOCAM = rw
+
+
+
+# Project BBGR-eCertificat
+[BBGR-eCertificat:/]
+@Acces-REDMINE = r
+@BBGR-eCertificat = r
+@BBGR-eCertificat-Client = r
+
+[BBGR-eCertificat:/branches]
+@BBGR-eCertificat = rw
+@BBGR-eCertificat-Client = 
+
+[BBGR-eCertificat:/tags]
+@BBGR-eCertificat = rw
+@BBGR-eCertificat-Client = 
+
+[BBGR-eCertificat:/trunk]
+@BBGR-eCertificat = rw
+@BBGR-eCertificat-Client = r
+
+[BBGR-eCertificat:/trunk/docs]
+@BBGR-eCertificat = 
+@BBGR-eCertificat-Client = 
+
+
+
+# Project BBGR-eCertificatOrange
+[BBGR-eCertificatOrange:/]
+@Acces-REDMINE = r
+@BBGR-eCertificat-Client = r
+@BBGR-eCertificatOrange = r
+
+[BBGR-eCertificatOrange:/branches]
+@BBGR-eCertificatOrange = rw
+
+[BBGR-eCertificatOrange:/tags]
+@BBGR-eCertificatOrange = rw
+
+[BBGR-eCertificatOrange:/trunk]
+@BBGR-eCertificatOrange = rw
+
+[BBGR-eCertificatOrange:/trunk/docs]
+@BBGR-eCertificat-Client = 
+@BBGR-eCertificatOrange = 
+
+
+
+# Project BBGR-Espace-Pro
+[BBGR-Espace-Pro:/]
+@BBGR-Espace-Pro = r
+@devteam = r
+
+[BBGR-Espace-Pro:/branches]
+@BBGR-Espace-Pro = rw
+@devteam = rw
+
+[BBGR-Espace-Pro:/tags]
+@BBGR-Espace-Pro = rw
+@devteam = rw
+
+[BBGR-Espace-Pro:/trunk]
+@BBGR-Espace-Pro = rw
+@devteam = rw
+
+
+
+# Project BBGR-Extranet
+[BBGR-Extranet:/]
+@Acces-REDMINE = r
+@BBGR-Extranet = r
+@BBGR-Extranet-Client = r
+
+[BBGR-Extranet:/branches]
+@BBGR-Extranet = rw
+@BBGR-Extranet-Client = 
+
+[BBGR-Extranet:/tags]
+@BBGR-Extranet = r
+@BBGR-Extranet-Client = 
+
+[BBGR-Extranet:/trunk]
+@BBGR-Extranet = rw
+@BBGR-Extranet-Client = r
+
+
+
+# Project BBGR-ExtranetOrange
+[BBGR-ExtranetOrange:/]
+@Acces-REDMINE = r
+@BBGR-ExtranetOrange = r
+
+[BBGR-ExtranetOrange:/branches]
+@BBGR-ExtranetOrange = rw
+
+[BBGR-ExtranetOrange:/tags]
+@BBGR-ExtranetOrange = rw
+
+[BBGR-ExtranetOrange:/trunk]
+@BBGR-ExtranetOrange = rw
+
+
+
+# Project BBGR-RAYBANFIT
+[BBGR-RAYBANFIT:/]
+@devteam = r
+
+[BBGR-RAYBANFIT:/branches]
+@devteam = rw
+
+[BBGR-RAYBANFIT:/tags]
+@devteam = rw
+
+[BBGR-RAYBANFIT:/trunk]
+@devteam = rw
+
+
+
+# Project CaisseEpargne-GEFF
+[CaisseEpargne-GEFF:/]
+@Acces-REDMINE = r
+@devteam = rw
+
+[CaisseEpargne-GEFF:/trunk/dev]
+@devteam = rw
+
+[CaisseEpargne-GEFF:/trunk/docs]
+@devteam = 
+
+
+
+# Project CaisseEpargne-RIA
+[CaisseEpargne-RIA:/]
+@devteam = r
+
+
+
+# Project CaisseEpargne-RIAv3
+[CaisseEpargne-RIAv3:/]
+@Acces-REDMINE = r
+@CaisseEpargne-RIAv3-Admins = rw
+@devteam = rw
+
+[CaisseEpargne-RIAv3:/trunk/docs]
+@CaisseEpargne-RIAv3-Admins = 
+@devteam = 
+
+[CaisseEpargne-RIAv3:/trunk/management]
+@CaisseEpargne-RIAv3-Admins = 
+@devteam = 
+
+
+
+# Project CERTU-MAPBruit
+[CERTU-MAPBruit:/]
+@Acces-REDMINE = r
+@CERTU-MAPBruit-Admins = rw
+@devteam = r
+
+[CERTU-MAPBruit:/branches]
+@CERTU-MAPBruit-Admins = rw
+@devteam = rw
+
+[CERTU-MAPBruit:/tags]
+@CERTU-MAPBruit-Admins = rw
+@devteam = rw
+
+[CERTU-MAPBruit:/trunk]
+@CERTU-MAPBruit-Admins = rw
+@devteam = rw
+
+[CERTU-MAPBruit:/trunk/docs]
+@CERTU-MAPBruit-Admins = 
+@devteam = 
+
+[CERTU-MAPBruit:/trunk/management]
+@CERTU-MAPBruit-Admins = 
+@devteam = 
+
+
+
+# Project CETE-VisioMPostes
+[CETE-VisioMPostes:/]
+@Acces-REDMINE = r
+@CETE-VisioMPostes-Admins = rw
+
+[CETE-VisioMPostes:/trunk/docs]
+@CETE-VisioMPostes-Admins = 
+
+[CETE-VisioMPostes:/trunk/management]
+@CETE-VisioMPostes-Admins = 
+
+
+
+# Project CFDP-Extranet
+[CFDP-Extranet:/]
+@devteam = r
+
+[CFDP-Extranet:/branches]
+@devteam = rw
+
+[CFDP-Extranet:/releases]
+@devteam = rw
+
+[CFDP-Extranet:/tags]
+@devteam = rw
+
+[CFDP-Extranet:/trunk]
+@devteam = rw
+
+
+
+# Project CFDP-SINISTRE
+[CFDP-SINISTRE:/]
+@Acces-REDMINE = r
+@CFDP-SINISTRE-admin = rw
+@cfdp-util = r
+@devteam = rw
+
+[CFDP-SINISTRE:/trunk/dev]
+@CFDP-SINISTRE-admin = rw
+@cfdp-util = rw
+@devteam = rw
+
+[CFDP-SINISTRE:/trunk/docs]
+@CFDP-SINISTRE-admin = 
+@cfdp-util = 
+@devteam = 
+
+[CFDP-SINISTRE:/trunk/Management]
+@CFDP-SINISTRE-admin = 
+@cfdp-util = 
+@devteam = 
+
+[CFDP-SINISTRE:/trunk/Management/restricted]
+@CFDP-SINISTRE-admin = rw
+@cfdp-util = 
+@devteam = rw
+
+
+
+# Project CFDP-SINISTRE-CSI
+[CFDP-SINISTRE-CSI:/]
+@Acces-REDMINE = r
+@CFDP-SINISTRE-CSI = r
+
+[CFDP-SINISTRE-CSI:/branches]
+@CFDP-SINISTRE-CSI = rw
+
+[CFDP-SINISTRE-CSI:/trunk]
+@CFDP-SINISTRE-CSI = rw
+
+
+
+# Project CFDP-SINISTRE2
+[CFDP-SINISTRE2:/]
+@devteam = r
+
+[CFDP-SINISTRE2:/branches]
+@devteam = rw
+
+[CFDP-SINISTRE2:/releases]
+@devteam = rw
+
+[CFDP-SINISTRE2:/tags]
+@devteam = rw
+
+[CFDP-SINISTRE2:/trunk]
+@devteam = rw
+
+
+
+# Project CGG-CDMS
+[CGG-CDMS:/]
+@devteam = r
+
+[CGG-CDMS:/trunk]
+@devteam = rw
+
+
+
+# Project CIG-BourseEmploi
+[CIG-BourseEmploi:/]
+@Acces-REDMINE = r
+@CIG-BourseEmploi-Client = r
+@devteam = r
+
+[CIG-BourseEmploi:/branches]
+@CIG-BourseEmploi-Client = 
+@devteam = rw
+
+[CIG-BourseEmploi:/releases]
+@CIG-BourseEmploi-Client = 
+@devteam = rw
+
+[CIG-BourseEmploi:/tags]
+@CIG-BourseEmploi-Client = 
+@devteam = rw
+
+[CIG-BourseEmploi:/trunk]
+@Acces-REDMINE = r
+@CIG-BourseEmploi-Client = 
+@devteam = 
+
+[CIG-BourseEmploi:/trunk/dev]
+@Acces-REDMINE = r
+@CIG-BourseEmploi-Client = 
+@devteam = rw
+
+[CIG-BourseEmploi:/trunk/docs]
+@Acces-REDMINE = r
+@CIG-BourseEmploi-Client = 
+@devteam = 
+
+[CIG-BourseEmploi:/trunk/management]
+@Acces-REDMINE = r
+@CIG-BourseEmploi-Client = 
+@devteam = 
+
+
+
+# Project CIG-InfocentreHandicap
+[CIG-InfocentreHandicap:/]
+@Acces-REDMINE = r
+@CIG-InfocentreHandicap-Admins = rw
+@CIG-Utilisateurs = 
+@devteam = rw
+@iorga-cig-handicap = 
+
+[CIG-InfocentreHandicap:/branches/prod]
+@CIG-InfocentreHandicap-Admins = rw
+@CIG-Utilisateurs = 
+@devteam = rw
+@iorga-cig-handicap = r
+
+[CIG-InfocentreHandicap:/tags]
+@CIG-InfocentreHandicap-Admins = rw
+@CIG-Utilisateurs = 
+@devteam = rw
+@iorga-cig-handicap = r
+
+[CIG-InfocentreHandicap:/trunk]
+@Acces-REDMINE = r
+@CIG-InfocentreHandicap-Admins = 
+@CIG-Utilisateurs = 
+@devteam = rw
+@iorga-cig-handicap = 
+
+[CIG-InfocentreHandicap:/trunk/dev]
+@Acces-REDMINE = r
+@CIG-InfocentreHandicap-Admins = 
+@CIG-Utilisateurs = 
+@devteam = rw
+@iorga-cig-handicap = 
+
+[CIG-InfocentreHandicap:/trunk/devProvisoire]
+@CIG-InfocentreHandicap-Admins = rw
+@CIG-Utilisateurs = 
+@devteam = rw
+@iorga-cig-handicap = r
+
+[CIG-InfocentreHandicap:/trunk/docs]
+@Acces-REDMINE = r
+@CIG-InfocentreHandicap-Admins = 
+@CIG-Utilisateurs = 
+@devteam = 
+@iorga-cig-handicap = 
+
+[CIG-InfocentreHandicap:/trunk/docs/Compte_Rendu]
+@CIG-Utilisateurs = r
+
+[CIG-InfocentreHandicap:/trunk/docs/Maquette]
+@CIG-InfocentreHandicap-Admins = rw
+@CIG-Utilisateurs = r
+@devteam = rw
+
+[CIG-InfocentreHandicap:/trunk/docs/Spécifications]
+@CIG-Utilisateurs = r
+
+[CIG-InfocentreHandicap:/trunk/management]
+@Acces-REDMINE = r
+@CIG-InfocentreHandicap-Admins = 
+@CIG-Utilisateurs = 
+@devteam = 
+@iorga-cig-handicap = 
+
+
+
+# Project CIG-PlateformeXnet
+[CIG-PlateformeXnet:/]
+@Acces-REDMINE = r
+@CIG-PlateformeXnet-Server = r
+@devteam = rw
+
+[CIG-PlateformeXnet:/trunk]
+@Acces-REDMINE = r
+@CIG-PlateformeXnet-Server = 
+@devteam = rw
+
+[CIG-PlateformeXnet:/trunk/docs]
+@Acces-REDMINE = r
+@CIG-PlateformeXnet-Server = 
+@devteam = 
+
+[CIG-PlateformeXnet:/trunk/management]
+@Acces-REDMINE = r
+@CIG-PlateformeXnet-Server = 
+@devteam = 
+
+
+
+# Project CPP_Nexans_Mantis
+[CPP_Nexans_Mantis:/]
+@Acces-REDMINE = r
+@CPP_Nexans_Mantis = r
+
+[CPP_Nexans_Mantis:/branches]
+@CPP_Nexans_Mantis = rw
+
+[CPP_Nexans_Mantis:/trunk]
+@CPP_Nexans_Mantis = rw
+
+[CPP_Nexans_Mantis:/trunk/docs]
+@CPP_Nexans_Mantis = 
+
+
+
+# Project DERIVATIVES-CRM
+[DERIVATIVES-CRM:/]
+@Acces-REDMINE = r
+@devteam = rw
+
+[DERIVATIVES-CRM:/trunk/docs]
+@devteam = 
+
+[DERIVATIVES-CRM:/trunk/management]
+@devteam = 
+
+
+
+# Project DIA-CDES69
+[DIA-CDES69:/]
+@Acces-REDMINE = r
+@devteam = r
+@DIA-CDES69-CLIENT = r
+
+[DIA-CDES69:/branches]
+@devteam = rw
+@DIA-CDES69-CLIENT = rw
+
+[DIA-CDES69:/tags]
+@devteam = rw
+@DIA-CDES69-CLIENT = rw
+
+[DIA-CDES69:/trunk]
+@devteam = rw
+@DIA-CDES69-CLIENT = rw
+
+
+
+# Project DIA-FLWeb
+[DIA-FLWeb:/]
+@Acces-REDMINE = r
+@DIA-FLWEB = r
+@DIA-FLWeb-client = r
+
+[DIA-FLWeb:/branches]
+@DIA-FLWEB = rw
+@DIA-FLWeb-client = rw
+
+[DIA-FLWeb:/tags]
+@DIA-FLWEB = rw
+@DIA-FLWeb-client = rw
+
+[DIA-FLWeb:/trunk]
+@DIA-FLWEB = rw
+@DIA-FLWeb-client = rw
+
+[DIA-FLWeb:/trunk/docs]
+@DIA-FLWEB = 
+@DIA-FLWeb-client = 
+
+[DIA-FLWeb:/trunk/management]
+@DIA-FLWEB = 
+@DIA-FLWeb-client = 
+
+[DIA-FLWeb:/trunk/management/restricted]
+@DIA-FLWEB = rw
+@DIA-FLWeb-client = 
+
+
+
+# Project DIRCE-Bibli
+[DIRCE-Bibli:/]
+@Acces-REDMINE = r
+@DIRCE-Bibli = r
+
+[DIRCE-Bibli:/branches]
+@DIRCE-Bibli = rw
+
+[DIRCE-Bibli:/tags]
+@DIRCE-Bibli = rw
+
+[DIRCE-Bibli:/trunk]
+@DIRCE-Bibli = rw
+
+
+
+# Project DOMPLUS-API-LHS
+[DOMPLUS-API-LHS:/]
+@devteam = r
+
+[DOMPLUS-API-LHS:/branches]
+@devteam = rw
+
+[DOMPLUS-API-LHS:/tags]
+@devteam = rw
+
+[DOMPLUS-API-LHS:/trunk]
+@devteam = rw
+
+
+
+# Project DOMPLUS-DEBORDEMENT
+[DOMPLUS-DEBORDEMENT:/]
+@Acces-REDMINE = r
+@devteam = rw
+@domplus-iorga-admins = rw
+@domplus-util = 
+@domplus-util-tech = 
+
+[DOMPLUS-DEBORDEMENT:/trunk/dev]
+@devteam = rw
+@domplus-iorga-admins = rw
+@domplus-util = rw
+@domplus-util-tech = r
+
+[DOMPLUS-DEBORDEMENT:/trunk/docs]
+@Acces-REDMINE = r
+@devteam = 
+@domplus-iorga-admins = 
+@domplus-util = 
+@domplus-util-tech = 
+
+[DOMPLUS-DEBORDEMENT:/trunk/management]
+@Acces-REDMINE = r
+@devteam = 
+@domplus-iorga-admins = 
+@domplus-util = 
+@domplus-util-tech = 
+
+
+
+# Project DOMPLUS-EXTRANETFACTURATION
+[DOMPLUS-EXTRANETFACTURATION:/]
+@Acces-REDMINE = r
+@devteam = rw
+@domplus-util = 
+@domplus-util-tech = 
+
+[DOMPLUS-EXTRANETFACTURATION:/trunk]
+@devteam = rw
+@domplus-util = 
+@domplus-util-tech = 
+
+[DOMPLUS-EXTRANETFACTURATION:/trunk/dev]
+@devteam = rw
+@domplus-util = rw
+@domplus-util-tech = r
+
+[DOMPLUS-EXTRANETFACTURATION:/trunk/docs]
+@Acces-REDMINE = r
+@devteam = 
+@domplus-util = 
+@domplus-util-tech = 
+
+[DOMPLUS-EXTRANETFACTURATION:/trunk/management]
+@Acces-REDMINE = r
+@devteam = 
+@domplus-util = 
+@domplus-util-tech = 
+
+
+
+# Project DOMPLUS-EXTRANETS
+[DOMPLUS-EXTRANETS:/]
+@Acces-REDMINE = r
+@devteam = rw
+@domplus-iorga-admins = rw
+@domplus-util = r
+
+[DOMPLUS-EXTRANETS:/DOMPLUS_CLIENTB_Release]
+@devteam = rw
+@domplus-iorga-admins = rw
+@domplus-util = rw
+
+[DOMPLUS-EXTRANETS:/trunk/dev]
+@devteam = rw
+@domplus-iorga-admins = rw
+@domplus-util = rw
+
+[DOMPLUS-EXTRANETS:/trunk/docs]
+@devteam = 
+@domplus-iorga-admins = 
+@domplus-util = 
+
+[DOMPLUS-EXTRANETS:/trunk/management]
+@devteam = 
+@domplus-iorga-admins = 
+@domplus-util = 
+
+
+
+# Project DOMPLUS-Octave
+[DOMPLUS-Octave:/]
+@Acces-REDMINE = r
+@devteam = rw
+@domplus-util = 
+
+[DOMPLUS-Octave:/branches]
+@devteam = rw
+@domplus-util = rw
+
+[DOMPLUS-Octave:/branches/v1.3.2.X]
+@devteam = rw
+
+[DOMPLUS-Octave:/releases]
+@devteam = rw
+@domplus-util = rw
+
+[DOMPLUS-Octave:/releases/SCRIPTS]
+@devteam = rw
+
+[DOMPLUS-Octave:/tags]
+@devteam = rw
+@domplus-util = rw
+
+[DOMPLUS-Octave:/trunk/dev]
+@devteam = rw
+@domplus-util = rw
+
+[DOMPLUS-Octave:/trunk/docs]
+@Acces-REDMINE = r
+@devteam = r
+@domplus-util = 
+
+[DOMPLUS-Octave:/trunk/docs/Documents/TransmisParDomplus]
+@devteam = rw
+@domplus-util = rw
+
+[DOMPLUS-Octave:/trunk/docs/Recette]
+@devteam = rw
+@domplus-util = rw
+
+[DOMPLUS-Octave:/trunk/management]
+@Acces-REDMINE = r
+@devteam = r
+@domplus-util = 
+
+
+
+# Project DOMPLUS-PARTENAIRE
+[DOMPLUS-PARTENAIRE:/]
+@Acces-REDMINE = r
+@devteam = rw
+@domplus-iorga-admins = rw
+@domplus-util = 
+@domplus-util-tech = 
+
+[DOMPLUS-PARTENAIRE:/trunk/dev]
+@devteam = rw
+@domplus-iorga-admins = rw
+@domplus-util = rw
+@domplus-util-tech = r
+
+[DOMPLUS-PARTENAIRE:/trunk/docs]
+@Acces-REDMINE = r
+@devteam = 
+@domplus-iorga-admins = 
+@domplus-util = 
+@domplus-util-tech = 
+
+[DOMPLUS-PARTENAIRE:/trunk/management]
+@Acces-REDMINE = r
+@devteam = 
+@domplus-iorga-admins = 
+@domplus-util = 
+@domplus-util-tech = 
+
+[DOMPLUS-PARTENAIRE:/trunk/management/SFD]
+@devteam = rw
+@domplus-iorga-admins = rw
+@domplus-util = 
+@domplus-util-tech = 
+
+
+
+# Project ED-AP
+[ED-AP:/]
+@devteam = r
+
+[ED-AP:/branches]
+@devteam = rw
+
+[ED-AP:/releases]
+@devteam = rw
+
+[ED-AP:/tags]
+@devteam = rw
+
+[ED-AP:/trunk]
+@devteam = rw
+
+
+
+# Project ED-CDES69
+[ED-CDES69:/]
+@devteam = r
+
+[ED-CDES69:/branches]
+@devteam = rw
+
+[ED-CDES69:/releases]
+@devteam = rw
+
+[ED-CDES69:/tags]
+@devteam = rw
+
+[ED-CDES69:/trunk]
+@devteam = rw
+
+
+
+# Project ED-CDS_CDM
+[ED-CDS_CDM:/]
+@devteam = r
+
+[ED-CDS_CDM:/branches]
+@devteam = rw
+
+[ED-CDS_CDM:/releases]
+@devteam = rw
+
+[ED-CDS_CDM:/tags]
+@devteam = rw
+
+[ED-CDS_CDM:/trunk]
+@devteam = rw
+
+
+
+# Project ED-DAS
+[ED-DAS:/]
+@devteam = r
+@ED-Techs = r
+
+[ED-DAS:/branches]
+@devteam = rw
+@ED-Techs = r
+
+[ED-DAS:/releases]
+@devteam = rw
+@ED-Techs = r
+
+[ED-DAS:/tags]
+@devteam = rw
+@ED-Techs = r
+
+[ED-DAS:/trunk]
+@devteam = rw
+@ED-Techs = r
+
+
+
+# Project ED-EDMat
+[ED-EDMat:/]
+@devteam = r
+
+
+
+# Project ED-Franchise
+[ED-Franchise:/]
+@devteam = r
+
+[ED-Franchise:/branches]
+@devteam = rw
+
+[ED-Franchise:/releases]
+@devteam = rw
+
+[ED-Franchise:/tags]
+@devteam = rw
+
+[ED-Franchise:/trunk]
+@devteam = rw
+
+
+
+# Project ED-GPE
+[ED-GPE:/]
+@devteam = r
+
+[ED-GPE:/branches]
+@devteam = rw
+
+[ED-GPE:/releases]
+@devteam = rw
+
+[ED-GPE:/tags]
+@devteam = rw
+
+[ED-GPE:/trunk]
+@devteam = rw
+
+
+
+# Project ED-GPM
+[ED-GPM:/]
+@devteam = rw
+@ED-Clients = r
+@ED-Techs = r
+
+[ED-GPM:/branches]
+@devteam = rw
+@ED-Clients = 
+@ED-Techs = 
+
+[ED-GPM:/releases]
+@devteam = rw
+@ED-Clients = 
+@ED-Techs = 
+
+[ED-GPM:/tags]
+@devteam = rw
+@ED-Clients = r
+@ED-Techs = r
+
+[ED-GPM:/trunk/dev]
+@devteam = rw
+@ED-Clients = r
+@ED-Techs = rw
+
+[ED-GPM:/trunk/docs]
+@devteam = rw
+@ED-Clients = 
+@ED-Techs = 
+
+[ED-GPM:/trunk/management]
+@devteam = rw
+@ED-Clients = 
+@ED-Techs = 
+
+
+
+# Project ED-MBH
+[ED-MBH:/]
+@devteam = r
+
+[ED-MBH:/branches]
+@devteam = rw
+
+[ED-MBH:/releases]
+@devteam = rw
+
+[ED-MBH:/tags]
+@devteam = rw
+
+[ED-MBH:/trunk]
+@devteam = rw
+
+
+
+# Project ED-PockED
+[ED-PockED:/]
+@devteam = r
+
+[ED-PockED:/branches]
+@devteam = rw
+
+[ED-PockED:/releases]
+@devteam = rw
+
+[ED-PockED:/tags]
+@devteam = rw
+
+[ED-PockED:/trunk]
+@devteam = rw
+
+
+
+# Project ED-SIN
+[ED-SIN:/]
+@devteam = r
+
+[ED-SIN:/branches]
+@devteam = rw
+
+[ED-SIN:/releases]
+@devteam = rw
+
+[ED-SIN:/tags]
+@devteam = rw
+
+[ED-SIN:/trunk]
+@devteam = rw
+
+
+
+# Project ED-SINCO
+[ED-SINCO:/]
+@devteam = r
+
+[ED-SINCO:/branches]
+@devteam = rw
+
+[ED-SINCO:/releases]
+@devteam = rw
+
+[ED-SINCO:/tags]
+@devteam = rw
+
+[ED-SINCO:/trunk]
+@devteam = rw
+
+
+
+# Project EIKOANALYSE-EIKO
+[EIKOANALYSE-EIKO:/]
+@Acces-REDMINE = r
+@devteam = r
+@eiko-util = r
+
+[EIKOANALYSE-EIKO:/branches]
+@devteam = rw
+
+[EIKOANALYSE-EIKO:/tags]
+@devteam = rw
+
+[EIKOANALYSE-EIKO:/trunk]
+@devteam = rw
+
+[EIKOANALYSE-EIKO:/trunk/docs]
+@devteam = 
+@eiko-util = 
+
+[EIKOANALYSE-EIKO:/trunk/management]
+@devteam = 
+@eiko-util = 
+
+
+
+# Project Electre-BOBE
+[Electre-BOBE:/]
+@devteam = r
+
+[Electre-BOBE:/branches]
+@devteam = rw
+
+[Electre-BOBE:/releases]
+@devteam = rw
+
+[Electre-BOBE:/tags]
+@devteam = rw
+
+[Electre-BOBE:/trunk]
+@devteam = rw
+
+
+
+# Project ELECTRE-CadrageFonctionnelCRM
+[ELECTRE-CadrageFonctionnelCRM:/]
+@Acces-REDMINE = r
+@devteam = r
+@ELECTRE-ADMIN = r
+@ELECTRE-CadrageFonctionnelCRM = r
+@ELECTRE-CadrageFonctionnelCRM-Client = r
+
+[ELECTRE-CadrageFonctionnelCRM:/branches]
+@devteam = 
+@ELECTRE-ADMIN = rw
+@ELECTRE-CadrageFonctionnelCRM = rw
+@ELECTRE-CadrageFonctionnelCRM-Client = 
+
+[ELECTRE-CadrageFonctionnelCRM:/tags]
+@devteam = 
+@ELECTRE-ADMIN = rw
+@ELECTRE-CadrageFonctionnelCRM = rw
+@ELECTRE-CadrageFonctionnelCRM-Client = 
+
+[ELECTRE-CadrageFonctionnelCRM:/trunk]
+@Acces-REDMINE = r
+@devteam = rw
+@ELECTRE-ADMIN = rw
+@ELECTRE-CadrageFonctionnelCRM = rw
+@ELECTRE-CadrageFonctionnelCRM-Client = r
+
+[ELECTRE-CadrageFonctionnelCRM:/trunk/dev]
+@ELECTRE-ADMIN = rw
+@ELECTRE-CadrageFonctionnelCRM = rw
+@ELECTRE-CadrageFonctionnelCRM-Client = 
+
+[ELECTRE-CadrageFonctionnelCRM:/trunk/docs]
+@ELECTRE-ADMIN = 
+@ELECTRE-CadrageFonctionnelCRM = 
+@ELECTRE-CadrageFonctionnelCRM-Client = 
+
+[ELECTRE-CadrageFonctionnelCRM:/trunk/Management]
+@ELECTRE-ADMIN = 
+@ELECTRE-CadrageFonctionnelCRM = 
+@ELECTRE-CadrageFonctionnelCRM-Client = 
+
+[ELECTRE-CadrageFonctionnelCRM:/trunk/Management/CR_Reunions_Travail]
+@ELECTRE-ADMIN = rw
+@ELECTRE-CadrageFonctionnelCRM = rw
+@ELECTRE-CadrageFonctionnelCRM-Client = 
+
+[ELECTRE-CadrageFonctionnelCRM:/trunk/Management/Restricted]
+@ELECTRE-ADMIN = rw
+@ELECTRE-CadrageFonctionnelCRM = 
+@ELECTRE-CadrageFonctionnelCRM-Client = 
+
+
+
+# Project ELECTRE-ManuelQualiteCalipse
+[ELECTRE-ManuelQualiteCalipse:/]
+@Acces-REDMINE = r
+@ELECTRE-ManuelQualiteCalipse = r
+
+[ELECTRE-ManuelQualiteCalipse:/branches]
+@ELECTRE-ManuelQualiteCalipse = rw
+
+[ELECTRE-ManuelQualiteCalipse:/tags]
+@ELECTRE-ManuelQualiteCalipse = rw
+
+[ELECTRE-ManuelQualiteCalipse:/trunk]
+@ELECTRE-ManuelQualiteCalipse = rw
+
+
+
+# Project Electre-VenteEnLigne
+[Electre-VenteEnLigne:/]
+@devteam = r
+
+[Electre-VenteEnLigne:/branches]
+@devteam = rw
+
+[Electre-VenteEnLigne:/releases]
+@devteam = rw
+
+[Electre-VenteEnLigne:/tags]
+@devteam = rw
+
+[Electre-VenteEnLigne:/trunk]
+@devteam = rw
+
+
+
+# Project Europerformance-Europerformance
+[Europerformance-Europerformance:/]
+@Acces-REDMINE = r
+@devteam = r
+@Europerformance-Client = r
+
+[Europerformance-Europerformance:/branches]
+@devteam = rw
+@Europerformance-Client = r
+
+[Europerformance-Europerformance:/installshieldprojects]
+@devteam = rw
+@Europerformance-Client = r
+
+[Europerformance-Europerformance:/release]
+@devteam = rw
+@Europerformance-Client = r
+
+[Europerformance-Europerformance:/tags]
+@devteam = rw
+@Europerformance-Client = 
+
+[Europerformance-Europerformance:/trunk]
+@devteam = rw
+@Europerformance-Client = r
+
+[Europerformance-Europerformance:/trunk/docs]
+@devteam = 
+@Europerformance-Client = 
+
+[Europerformance-Europerformance:/trunk/management]
+@devteam = 
+@Europerformance-Client = 
+
+[Europerformance-Europerformance:/trunk/management/restricted]
+@devteam = rw
+@Europerformance-Client = 
+
+
+
+# Project Europerformance-StyleAnalytics
+[Europerformance-StyleAnalytics:/]
+@devteam = r
+
+
+
+# Project FFTT-SPIDDv2
+[FFTT-SPIDDv2:/]
+@FFTT-SPIDDv2 = r
+
+[FFTT-SPIDDv2:/branches]
+@FFTT-SPIDDv2 = rw
+
+[FFTT-SPIDDv2:/releases]
+@FFTT-SPIDDv2 = rw
+
+[FFTT-SPIDDv2:/tags]
+@FFTT-SPIDDv2 = rw
+
+[FFTT-SPIDDv2:/trunk]
+@FFTT-SPIDDv2 = rw
+
+
+
+# Project Fininfo-ADVI
+[Fininfo-ADVI:/]
+@devteam = r
+
+[Fininfo-ADVI:/tags]
+@devteam = rw
+
+[Fininfo-ADVI:/trunk]
+@devteam = rw
+
+
+
+# Project FNCDG-POLYSPOT
+[FNCDG-POLYSPOT:/]
+@Acces-REDMINE = r
+@devteam = r
+
+[FNCDG-POLYSPOT:/branches]
+@devteam = rw
+
+[FNCDG-POLYSPOT:/tags]
+@devteam = rw
+
+[FNCDG-POLYSPOT:/trunk]
+@devteam = rw
+
+[FNCDG-POLYSPOT:/trunk/doc]
+@devteam = 
+
+
+
+# Project FranceAbo-Badje
+[FranceAbo-Badje:/]
+@Acces-REDMINE = r
+@ADLP-LEMERAUD = r
+@FranceAbo-Badje = r
+
+[FranceAbo-Badje:/branches]
+@FranceAbo-Badje = rw
+
+[FranceAbo-Badje:/tags]
+@FranceAbo-Badje = rw
+
+[FranceAbo-Badje:/trunk]
+@FranceAbo-Badje = rw
+
+[FranceAbo-Badje:/trunk/docs]
+@ADLP-LEMERAUD = 
+@FranceAbo-Badje = 
+
+[FranceAbo-Badje:/trunk/management]
+@ADLP-LEMERAUD = 
+@FranceAbo-Badje = 
+
+
+
+# Project FranceAbo-Badje_Planning
+[FranceAbo-Badje_Planning:/]
+@FranceAbo-Badje_Planning = r
+
+[FranceAbo-Badje_Planning:/branches]
+@FranceAbo-Badje_Planning = rw
+
+[FranceAbo-Badje_Planning:/tags]
+@FranceAbo-Badje_Planning = rw
+
+[FranceAbo-Badje_Planning:/trunk]
+@FranceAbo-Badje_Planning = rw
+
+
+
+# Project FranceAbo-Sygal
+[FranceAbo-Sygal:/]
+@Acces-REDMINE = r
+@ADLP-LEMERAUD = r
+@devteam = r
+@FranceAbo-Sygal = r
+
+[FranceAbo-Sygal:/branches]
+@Acces-REDMINE = r
+@ADLP-LEMERAUD = r
+@devteam = rw
+@FranceAbo-Sygal = rw
+
+[FranceAbo-Sygal:/releases]
+@ADLP-LEMERAUD = 
+@FranceAbo-Sygal = rw
+
+[FranceAbo-Sygal:/tags]
+@FranceAbo-Sygal = rw
+
+[FranceAbo-Sygal:/trunk]
+@Acces-REDMINE = r
+@ADLP-LEMERAUD = r
+@devteam = rw
+@FranceAbo-Sygal = rw
+
+[FranceAbo-Sygal:/trunk/dev]
+@Acces-REDMINE = r
+@ADLP-LEMERAUD = r
+@devteam = rw
+@FranceAbo-Sygal = rw
+
+[FranceAbo-Sygal:/trunk/docs]
+@ADLP-LEMERAUD = 
+@FranceAbo-Sygal = 
+
+[FranceAbo-Sygal:/trunk/management]
+@ADLP-LEMERAUD = 
+@FranceAbo-Sygal = 
+
+
+
+# Project FranceAbo-SystemeE
+[FranceAbo-SystemeE:/]
+@devteam = r
+
+[FranceAbo-SystemeE:/branches]
+@devteam = rw
+
+[FranceAbo-SystemeE:/tags]
+@devteam = rw
+
+[FranceAbo-SystemeE:/trunk]
+@devteam = rw
+
+
+
+# Project FranceAboDSI-Sygal
+
+
+# Project GroupeCahors-BiFinance
+[GroupeCahors-BiFinance:/]
+@Acces-REDMINE = r
+@GroupeCahors-BiFinanceAdmin = r
+
+[GroupeCahors-BiFinance:/branches]
+@GroupeCahors-BiFinanceAdmin = rw
+
+[GroupeCahors-BiFinance:/tags]
+@GroupeCahors-BiFinanceAdmin = rw
+
+[GroupeCahors-BiFinance:/trunk]
+@GroupeCahors-BiFinanceAdmin = rw
+
+
+
+# Project Heineken-ApplicationWebMobile
+[Heineken-ApplicationWebMobile:/]
+@Heineken-ApplicationWebMobile = r
+
+[Heineken-ApplicationWebMobile:/branches]
+@Heineken-ApplicationWebMobile = rw
+
+[Heineken-ApplicationWebMobile:/trunk]
+@Heineken-ApplicationWebMobile = rw
+
+
+
+# Project iconandcogroup
+[iconandcogroup:/]
+@Acces-REDMINE = r
+@iconandcogroup = r
+
+[iconandcogroup:/branches]
+@iconandcogroup = rw
+
+[iconandcogroup:/tags]
+@iconandcogroup = rw
+
+[iconandcogroup:/trunk]
+@iconandcogroup = rw
+
+
+
+# Project IORGA-CAS
+[IORGA-CAS:/]
+@Acces-REDMINE = r
+@devteam = r
+@IORGA-CAS = r
+
+[IORGA-CAS:/branches]
+@devteam = rw
+
+[IORGA-CAS:/tags]
+@devteam = rw
+
+[IORGA-CAS:/trunk]
+@devteam = rw
+
+[IORGA-CAS:/trunk/ServerManagement]
+@devteam = 
+@IORGA-CAS = 
+
+
+
+# Project Iorga-Colibri
+[Iorga-Colibri:/]
+@devteam = r
+
+[Iorga-Colibri:/branches]
+@devteam = rw
+
+[Iorga-Colibri:/releases]
+@devteam = rw
+
+[Iorga-Colibri:/tags]
+@devteam = rw
+
+[Iorga-Colibri:/trunk]
+@devteam = rw
+
+
+
+# Project Iorga-Intranet
+[Iorga-Intranet:/]
+@Acces-REDMINE = r
+@devteam = rw
+@Iorga-Apps = r
+
+
+
+# Project IORGA-IOP
+[IORGA-IOP:/]
+@Acces-REDMINE = r
+@IORGA-IOP = r
+
+[IORGA-IOP:/branches]
+@IORGA-IOP = rw
+
+[IORGA-IOP:/tags]
+@IORGA-IOP = rw
+
+[IORGA-IOP:/trunk]
+@IORGA-IOP = rw
+
+[IORGA-IOP:/trunk/docs]
+@IORGA-IOP = 
+
+
+
+# Project Iorga-ISI
+[Iorga-ISI:/]
+@devteam = r
+
+[Iorga-ISI:/branches]
+@devteam = rw
+
+[Iorga-ISI:/releases]
+@devteam = rw
+
+[Iorga-ISI:/tags]
+@devteam = rw
+
+[Iorga-ISI:/trunk]
+@devteam = rw
+
+
+
+# Project Iorga-IT
+[Iorga-IT:/]
+@Acces-REDMINE = r
+@devteam = r
+
+
+
+# Project Iorga-SiteIORGA2013
+[Iorga-SiteIORGA2013:/]
+@Acces-REDMINE = r
+@devteam = rw
+@Iorga-SiteIORGA2013 = r
+
+[Iorga-SiteIORGA2013:/trunk/docs]
+@devteam = 
+
+
+
+# Project Iorga-Test2
+[Iorga-Test2:/]
+@Acces-REDMINE = r
+
+
+
+# Project Iorga-VSManagement
+[Iorga-VSManagement:/]
+@Iorga-Admins = rw
+@Iorga-Apps = r
+
+[Iorga-VSManagement:/trunk/docs]
+@Iorga-Admins = rw
+@Iorga-Apps = 
+
+[Iorga-VSManagement:/trunk/management]
+@Iorga-Admins = rw
+@Iorga-Apps = 
+
+
+
+# Project IORGA-WAZA
+[IORGA-WAZA:/]
+@Acces-REDMINE = r
+@IORGA-WAZA = r
+
+[IORGA-WAZA:/branches]
+@IORGA-WAZA = rw
+
+[IORGA-WAZA:/trunk]
+@IORGA-WAZA = rw
+
+[IORGA-WAZA:/trunk/docs]
+@IORGA-WAZA = 
+
+[IORGA-WAZA:/trunk/management]
+@IORGA-WAZA = 
+
+
+
+# Project IORGA-YETI
+[IORGA-YETI:/]
+@Acces-REDMINE = r
+@devteam = r
+
+[IORGA-YETI:/branches]
+@devteam = rw
+
+[IORGA-YETI:/tags]
+@devteam = rw
+
+[IORGA-YETI:/trunk]
+@devteam = rw
+
+
+
+# Project Kazakar-Kazakar
+[Kazakar-Kazakar:/]
+@Acces-REDMINE = r
+@Kazakar-Kazakar = r
+
+[Kazakar-Kazakar:/branches]
+@Kazakar-Kazakar = rw
+
+[Kazakar-Kazakar:/trunk]
+@Kazakar-Kazakar = rw
+
+
+
+# Project KPONE
+[KPONE:/]
+@Acces-REDMINE = r
+@KPONE = r
+
+[KPONE:/branches]
+@KPONE = rw
+
+[KPONE:/trunk]
+@KPONE = rw
+
+[KPONE:/trunk/Docs]
+@KPONE = 
+
+
+
+# Project LaboFenioux-SiteInternet
+[LaboFenioux-SiteInternet:/]
+@Acces-REDMINE = r
+@devteam = r
+
+[LaboFenioux-SiteInternet:/branches]
+@devteam = rw
+
+[LaboFenioux-SiteInternet:/tags]
+@devteam = rw
+
+[LaboFenioux-SiteInternet:/trunk]
+@devteam = rw
+
+[LaboFenioux-SiteInternet:/trunk/docs]
+@devteam = 
+
+[LaboFenioux-SiteInternet:/trunk/management]
+@devteam = 
+
+
+
+# Project LFB-Application-Web-Plasma
+[LFB-Application-Web-Plasma:/]
+@LFB-Application-Web-Plasma = r
+
+[LFB-Application-Web-Plasma:/branches]
+@LFB-Application-Web-Plasma = rw
+
+[LFB-Application-Web-Plasma:/tags]
+@LFB-Application-Web-Plasma = r
+
+[LFB-Application-Web-Plasma:/trunk]
+@LFB-Application-Web-Plasma = rw
+
+
+
+# Project Manutan-WebSupplierV2
+[Manutan-WebSupplierV2:/]
+@devteam = r
+
+
+
+# Project MEDDE-BASOL
+[MEDDE-BASOL:/]
+@devteam = r
+
+[MEDDE-BASOL:/branches]
+@devteam = rw
+
+[MEDDE-BASOL:/tags]
+@devteam = rw
+
+[MEDDE-BASOL:/trunk]
+@devteam = rw
+
+
+
+# Project MEDDE-GEREP
+[MEDDE-GEREP:/]
+@Acces-REDMINE = r
+@devteam = r
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = r
+@MEDDE-KLEE = r
+
+[MEDDE-GEREP:/branches]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = r
+@MEDDE-KLEE = r
+
+[MEDDE-GEREP:/branches/01 - Gouvernance]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = r
+@MEDDE-KLEE = r
+
+[MEDDE-GEREP:/branches/01 - Gouvernance/01 - Lancement]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = r
+@MEDDE-KLEE = r
+
+[MEDDE-GEREP:/branches/01 - Gouvernance/02 - Comité de pilotage]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = r
+@MEDDE-KLEE = r
+
+[MEDDE-GEREP:/branches/01 - Gouvernance/10 - Planning]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = r
+@MEDDE-KLEE = r
+
+[MEDDE-GEREP:/branches/02 - Phase spécifications]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = r
+@MEDDE-KLEE = r
+
+[MEDDE-GEREP:/branches/03 - Phase recette]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = r
+@MEDDE-KLEE = r
+
+[MEDDE-GEREP:/branches/09 - Documents de référence]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = 
+@MEDDE-KLEE = 
+
+[MEDDE-GEREP:/branches/10 - Livraisons]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = 
+@MEDDE-KLEE = 
+
+[MEDDE-GEREP:/branches/10 - Livraisons/20130729_Livraison 1]
+@devteam = rw
+@MEDDE-CLIENTS = r
+
+[MEDDE-GEREP:/branches/11 - Suivi des commandes]
+@devteam = rw
+@MEDDE-CLIENTS = r
+@MEDDE-INERIS = 
+@MEDDE-KLEE = 
+
+[MEDDE-GEREP:/tags]
+@devteam = rw
+@MEDDE-CLIENTS = 
+@MEDDE-INERIS = 
+@MEDDE-KLEE = 
+
+[MEDDE-GEREP:/trunk]
+@devteam = rw
+@MEDDE-CLIENTS = 
+@MEDDE-INERIS = 
+@MEDDE-KLEE = 
+
+[MEDDE-GEREP:/trunk/01 - Doc Marché]
+@devteam = 
+@MEDDE-CLIENTS = 
+@MEDDE-INERIS = 
+@MEDDE-KLEE = 
+
+[MEDDE-GEREP:/trunk/02 - Organisation]
+@devteam = 
+@MEDDE-CLIENTS = 
+@MEDDE-INERIS = 
+@MEDDE-KLEE = 
+
+[MEDDE-GEREP:/trunk/08 - Technique]
+@devteam = 
+@MEDDE-CLIENTS = 
+@MEDDE-INERIS = 
+@MEDDE-KLEE = 
+
+
+
+# Project MIEL-SiteInternetV2
+[MIEL-SiteInternetV2:/]
+@devteam = r
+
+[MIEL-SiteInternetV2:/trunk]
+@devteam = rw
+
+
+
+# Project MIEL-TMA
+[MIEL-TMA:/]
+@devteam = r
+
+[MIEL-TMA:/trunk]
+@devteam = rw
+
+
+
+# Project OFUP-ParamReseau
+[OFUP-ParamReseau:/]
+@Acces-REDMINE = r
+@devteam = r
+@OFUP-test = r
+
+[OFUP-ParamReseau:/branches]
+@Acces-REDMINE = r
+@devteam = rw
+@OFUP-test = rw
+
+[OFUP-ParamReseau:/releases]
+@Acces-REDMINE = r
+@devteam = rw
+@OFUP-test = rw
+
+[OFUP-ParamReseau:/trunk]
+@Acces-REDMINE = r
+@devteam = rw
+@OFUP-test = rw
+
+[OFUP-ParamReseau:/trunk/docs]
+@OFUP-test = 
+
+[OFUP-ParamReseau:/trunk/management]
+@OFUP-test = 
+
+
+
+# Project Rosny-PortailFamille
+[Rosny-PortailFamille:/]
+@Rosny-PortailFamille = r
+
+[Rosny-PortailFamille:/branches]
+@Rosny-PortailFamille = rw
+
+[Rosny-PortailFamille:/tags]
+@Rosny-PortailFamille = rw
+
+[Rosny-PortailFamille:/trunk]
+@Rosny-PortailFamille = rw
+
+
+
+# Project SELOGER-PPC
+[SELOGER-PPC:/]
+@Acces-REDMINE = r
+@SELOGER-PPC = rw
+
+
+
+# Project SG-GestDAB-v2
+[SG-GestDAB-v2:/]
+@Acces-REDMINE = r
+@SG-GestDAB-v2 = r
+
+[SG-GestDAB-v2:/branches]
+@SG-GestDAB-v2 = rw
+
+[SG-GestDAB-v2:/trunk]
+@SG-GestDAB-v2 = rw
+
+
+
+# Project SocieteCentraleCanine
+[SocieteCentraleCanine:/]
+@Acces-REDMINE = r
+@SocieteCentraleCanine = r
+
+[SocieteCentraleCanine:/branches]
+@SocieteCentraleCanine = rw
+
+[SocieteCentraleCanine:/trunk]
+@SocieteCentraleCanine = rw
+
+
+
+# Project SPEIG-POC-Planning
+[SPEIG-POC-Planning:/]
+@Acces-REDMINE = r
+@SPEIG-client = r
+@SPEIG-POC-Planning = r
+
+[SPEIG-POC-Planning:/branches]
+@SPEIG-client = 
+@SPEIG-POC-Planning = rw
+
+[SPEIG-POC-Planning:/tags]
+@SPEIG-client = 
+@SPEIG-POC-Planning = rw
+
+[SPEIG-POC-Planning:/trunk]
+@SPEIG-client = r
+@SPEIG-POC-Planning = rw
+
+[SPEIG-POC-Planning:/trunk/Documentation]
+@SPEIG-client = 
+@SPEIG-POC-Planning = 
+
+
+
+# Project TDF-DIAGPYLWEB
+[TDF-DIAGPYLWEB:/]
+@TDF-DIAGPYLWEB = r
+
+[TDF-DIAGPYLWEB:/branches]
+@TDF-DIAGPYLWEB = rw
+
+[TDF-DIAGPYLWEB:/tags]
+@TDF-DIAGPYLWEB = rw
+
+[TDF-DIAGPYLWEB:/trunk]
+@TDF-DIAGPYLWEB = rw
+
+
+
+# Project TDF-GestionBudgtetaire
+[TDF-GestionBudgtetaire:/]
+@TDF_GestionBudgetaire = r
+
+[TDF-GestionBudgtetaire:/branches]
+@TDF_GestionBudgetaire = rw
+
+[TDF-GestionBudgtetaire:/tags]
+@TDF_GestionBudgetaire = rw
+
+[TDF-GestionBudgtetaire:/trunk]
+@TDF_GestionBudgetaire = rw
+
+
+
+# Project TDF-OutillageSupplyChain
+[TDF-OutillageSupplyChain:/]
+@Acces-REDMINE = r
+@TDF-OutillageSupplyChain = r
+@TDF-OutillageSupplyChain-client = r
+
+[TDF-OutillageSupplyChain:/branches]
+@TDF-OutillageSupplyChain = rw
+@TDF-OutillageSupplyChain-client = 
+
+[TDF-OutillageSupplyChain:/tags]
+@TDF-OutillageSupplyChain = rw
+@TDF-OutillageSupplyChain-client = 
+
+[TDF-OutillageSupplyChain:/trunk]
+@TDF-OutillageSupplyChain = rw
+@TDF-OutillageSupplyChain-client = r
+
+[TDF-OutillageSupplyChain:/trunk/dev]
+@TDF-OutillageSupplyChain = rw
+@TDF-OutillageSupplyChain-client = 
+
+[TDF-OutillageSupplyChain:/trunk/docs]
+@TDF-OutillageSupplyChain = 
+@TDF-OutillageSupplyChain-client = 
+
+[TDF-OutillageSupplyChain:/trunk/Management]
+@TDF-OutillageSupplyChain = 
+@TDF-OutillageSupplyChain-client = 
+
+
+
+# Project TELECOM_SUDPARIS-TSP
+[TELECOM_SUDPARIS-TSP:/]
+@TELECOM_SUDPARIS-TSP = r
+
+[TELECOM_SUDPARIS-TSP:/branches]
+@TELECOM_SUDPARIS-TSP = rw
+
+[TELECOM_SUDPARIS-TSP:/tags]
+@TELECOM_SUDPARIS-TSP = rw
+
+[TELECOM_SUDPARIS-TSP:/trunk]
+@TELECOM_SUDPARIS-TSP = rw
+
+
+
+# Project Test
+[Test:/]
+@Acces-REDMINE = r
+@devteam = r
+@Test = r
+
+[Test:/branches]
+@devteam = r
+@Test = r
+
+[Test:/trunk]
+@devteam = 
+@Test = rw
+
+
+
+# Project TotalGaz-RefonteVEC
+[TotalGaz-RefonteVEC:/]
+@Acces-REDMINE = r
+@devteam = rw
+
+[TotalGaz-RefonteVEC:/trunk/docs]
+@devteam = 
+
+[TotalGaz-RefonteVEC:/trunk/management]
+@devteam = 
+
+
+
+# Project TotalGaz-Yatou
+[TotalGaz-Yatou:/]
+@Acces-REDMINE = r
+@devteam = rw
+
+[TotalGaz-Yatou:/trunk/docs]
+@devteam = 
+
+[TotalGaz-Yatou:/trunk/management]
+@devteam = 
+
+
+
+# Project YVONMAU-CREATIONPRODUITV2
+[YVONMAU-CREATIONPRODUITV2:/]
+@Acces-REDMINE = r
+@devteam = rw
+@YVONMAU-CREATIONPRODUITV2-Users = rw
+
+[YVONMAU-CREATIONPRODUITV2:/trunk]
+@devteam = rw
+@YVONMAU-CREATIONPRODUITV2-Users = rw
+
+[YVONMAU-CREATIONPRODUITV2:/trunk/docs]
+@devteam = 
+@YVONMAU-CREATIONPRODUITV2-Users = 
+
+[YVONMAU-CREATIONPRODUITV2:/trunk/management]
+@devteam = 
+@YVONMAU-CREATIONPRODUITV2-Users = 
+
+
+
+# Project YVONMAU-MULTICRITERE
+[YVONMAU-MULTICRITERE:/]
+@Acces-REDMINE = r
+@devteam = rw
+@YVONMAU-MULTICRITERE-Utils = 
+
+[YVONMAU-MULTICRITERE:/trunk/dev]
+@devteam = rw
+@YVONMAU-MULTICRITERE-Utils = r
+
+[YVONMAU-MULTICRITERE:/trunk/docs]
+@devteam = 
+@YVONMAU-MULTICRITERE-Utils = 
+
+[YVONMAU-MULTICRITERE:/trunk/management]
+@devteam = 
+@YVONMAU-MULTICRITERE-Utils = 
+
